@@ -23,7 +23,7 @@
     <Version>0.0.1</Version>
 
     <Authors>Paolo Innocenti</Authors>
-    <Copyright>Copyright PH 2022 (c) paonath@gmail.com. All rights reserved.</Copyright>
+    <Copyright>Copyright PH $([System.DateTime]::UtcNow.ToString("yyyy")) (c) paonath@gmail.com. All rights reserved.</Copyright>
     <RepositoryUrl>https://github.com/paonath/PH.Entities.Abstractions</RepositoryUrl>
     <PackageProjectUrl>https://github.com/paonath/PH.Entities.Abstractions</PackageProjectUrl>
 
